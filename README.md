@@ -1,4 +1,4 @@
-# Student_Database made in C
+# Student Database made in C
 This is a simple command line program that is written in C language that manages and database consisting of students.
 
 ## Project Purpose
